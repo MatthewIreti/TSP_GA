@@ -1,0 +1,16 @@
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\obj\Debug\TSP.pdb
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\OxyPlot.dll
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\OxyPlot.pdb
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\OxyPlot.xml
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\obj\Debug\TSP.ChartPlotter.resources
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\obj\Debug\TSP.csproj.GenerateResource.cache
+C:\Users\BST-TECHNICAL\source\repos\TSP\TSP\obj\Debug\TSP.csproj.CopyComplete
